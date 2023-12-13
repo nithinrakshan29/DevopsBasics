@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Sample Test Page</title>
+  <title>Sample Testtt Page</title>
   <style>
     body {
       background-color: red;
