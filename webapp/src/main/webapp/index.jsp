@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Sample Testtt Page</title>
+  <title>Sample Test Page</title>
   <style>
     body {
-      background-color: red;
+      background-color: green;
     }
   </style>
 </head>
