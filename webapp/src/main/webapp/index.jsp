@@ -4,7 +4,7 @@
   <title>hello kk</title>
   <style>
     body {
-      background-color: purple;
+      background-color: green;
     }
   </style>
 </head>
